@@ -1,0 +1,11 @@
+42456d18e879f1a79b9cf6a60f10ce5e *DESCRIPTION
+50f2b613272ba60290740a82c59c4d6f *NAMESPACE
+ac23b9438230bdccb80d3181ab8e389b *R/meshgridn.R
+df6797f37216dc19baeb35cd97c6c1d6 *R/tephra3D.R
+880e3d46c1919c6496d802c76094a078 *data/Villarrica_SRTM.RData
+5b22aa92fa9a2ccf9a4b74c6704f14e5 *man/BlastAnim3d.Rd
+2f9a8bb915492a0fff4e100f290f09d7 *man/BlastSim3d.Rd
+5c341326c7d7a3e626b2192ed29e2a37 *man/Tephra3d.Rd
+93ff864405963eb3b4339825aa53031b *man/TopoInterp.Rd
+e8ac35a55f6c8f437ed4a89c8e7243da *man/VILL.Rd
+4202d269f7fdfc6b01d11bc1653c1f79 *man/meshgridn.Rd
